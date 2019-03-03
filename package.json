@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "D3.js Data Visualization for London Energy Consumption",
   "dependencies": {
-    "d3": "^5.9.1"
+    "d3": "^5.9.1",
+    "topojson": "^3.0.2"
   },
   "devDependencies": {
     "@babel/cli": "^7.2.3",
