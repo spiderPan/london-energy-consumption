@@ -1,0 +1,24 @@
+{
+  "name": "london-energy-consumption",
+  "version": "1.0.0",
+  "description": "D3.js Data Visualization for London Energy Consumption",
+  "dependencies": {
+    "d3": "^5.9.1"
+  },
+  "devDependencies": {
+    "d3": "^5.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spiderPan/london-energy-consumption.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spiderPan/london-energy-consumption/issues"
+  },
+  "homepage": "https://github.com/spiderPan/london-energy-consumption#readme"
+}
