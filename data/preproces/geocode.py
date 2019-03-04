@@ -1,7 +1,9 @@
 import geocoder
+import geojson
 import sys
 import pandas as pd
 import json
+import os
 
 
 def add_geocode_to_data(file):
@@ -25,7 +27,6 @@ def get_geocode_by_address(address):
     result = {
         'lat': g.json['lat'],
         'lng': g.json['lng'],
-        'boundingbox': g.json['raw']['boundingbox'],
     }
     json_result = json.dumps(result)
     # print('result==>'+json_result)
@@ -33,8 +34,36 @@ def get_geocode_by_address(address):
     return json_result
 
 
+def create_geojson_feature(x, y, id, properties):
+    point = geojson.Point((x, y))
+    return geojson.Feature(geometry=point, id=id, properties=properties)
+
+
+def create_geojson_from_csv(file):
+    out_file = os.path.splitext(file)[0]+'.json'
+    if os.path.isfile(out_file):
+        os.remove(out_file)
+
+    df = pd.read_csv(file)
+    features = []
+
+    for index, row in df.iterrows():
+        if pd.notna(row['geocode']):
+            geocode = json.loads(row['geocode'])
+            lat = geocode['lat']
+            lng = geocode['lng']
+            properties = row.fillna('').to_dict()
+            properties.pop('geocode')
+            feature = create_geojson_feature(lng, lat, index, properties)
+            features.append(feature)
+    collects = geojson.FeatureCollection(features)
+    with open(out_file, 'w') as outfile:
+        geojson.dump(collects, outfile)
+
+
 if __name__ == '__main__':
     data_file = sys.argv[1]
     print("counting...")
     add_geocode_to_data(data_file)
+    create_geojson_from_csv(data_file)
     print("updated file...")
