@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "D3.js Data Visualization for London Energy Consumption",
   "dependencies": {
+    "@google/maps": "^0.5.5",
     "d3": "^5.9.1",
     "topojson": "^3.0.2"
   },
