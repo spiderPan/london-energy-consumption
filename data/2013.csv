@@ -1,182 +1,182 @@
-Operation Name,Operation Type,Address,City,Postal Code,Total Floor Area,Unit1,Average Hours Per Week,Annual Flow,Electricity,Unit2,Natural Gas,Unit3,Fuel Oil 1 & 2,Unit4,Fuel Oil 4 & 6,Unit5,Propane,Unit6,Coal,Unit7,Wood,Unit8,District Heat,Unit9,Renewable1,Emission Factor1,District Cool,Unit10,Renewable2,Emission Factor2,GHG Emissions (Kg),Energy Intensity (ekWh/sqft),Energy Intensity (ekWh/Mega Litres),Comments
-AJ TYLER - MAIN BLDG & (E) WATER/SEWER BLDG,"Administrative offices and related facilities, including municipal council chambers",663 BATHURST ST,LONDON,N5Z 1P8,"2,117.22",Square meters,50,,"1,703,250.88717",kWh,"149,343.19201",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-CITY HALL,"Administrative offices and related facilities, including municipal council chambers",300 DUFFERIN AVE,LONDON,N6B 1Z2,"16,257.50",Square meters,126,,"2,551,993.70279",kWh,,,,,,,,,,,,,"3,791.61432",Giga Joule,No,,"2,940.66480",Giga Joule,No,,0.00000,0.00000,0.00000,
-ENVIRO PROGS - RENTAL,"Administrative offices and related facilities, including municipal council chambers","520 WELLINGTON ST UN 1,2,3",LONDON,N6A 3R2,261.90,Square meters,60,,"21,751.91759",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-J ALLAN TAYLOR BLDG,"Administrative offices and related facilities, including municipal council chambers",267 DUNDAS ST,LONDON,N6A 1H2,"2,425.76",Square meters,70,,"286,063.89556",kWh,"7,773.09771",Cubic Meter,,,,,,,,,,,"1,396.57127",Giga Joule,No,,"1,851.12560",Giga Joule,No,,0.00000,0.00000,0.00000,
-OXFORD OPS CTRE,"Administrative offices and related facilities, including municipal council chambers",1570 OXFORD ST W,LONDON,N6H 1W2,628.50,Square meters,80,,"13,396.94000",kWh,"23,134.47452",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-PROVINCIAL OFFENCE ACT OFFICES,"Administrative offices and related facilities, including municipal council chambers",824 DUNDAS ST,LONDON,N5W 5R1,"2,108.02",Square meters,70,,"336,642.30000",kWh,"30,839.96720",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-T-BLOCK(NG shared WOLSELY),"Administrative offices and related facilities, including municipal council chambers",652 ELIZABETH ST,LONDON,N5Y 4T7,"1,516.21",Square meters,70,,"38,942.61111",kWh,"40,212.63485",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-TOURISM LONDON,"Administrative offices and related facilities, including municipal council chambers",696 WELLINGTON RD,LONDON,N6C 4R2,315.88,Square meters,70,,"32,128.19697",kWh,"10,636.45943",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-CENTENNIAL HALL,Performing arts facilities,550 WELLINGTON ST,LONDON,N6A 3P9,"4,649.91",Square meters,70,,"837,310.36489",kWh,,,,,,,,,,,,,"3,740.97646",Giga Joule,No,,"1,024.00410",Giga Joule,No,,0.00000,0.00000,0.00000,
-BOYLE CC,Community centres,530 CHARLOTTE ST,LONDON,N5W 4A4,791.74,Square meters,126,,"67,405.16074",kWh,"9,787.48085",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-BYRON CC - POLE BASE,Community centres,1308 NORMAN AVE,LONDON,N6K 2A3,770.18,Square meters,126,,"101,915.99581",kWh,"23,507.86163",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-CARLING HEIGHTS OCC,Community centres,654 ELIZABETH ST,LONDON,N5Y 6L3,"3,538.76",Square meters,126,,"40,582.88442",kWh,"145,490.65122",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-CIVIC GARDEN COMPLEX,Community centres,625 SPRINGBANK DR,LONDON,N6K 4T1,"1,794.19",Square meters,126,,"173,292.21570",kWh,"109,942.30792",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-EAST LIONS ARTISANS CC  & POOL,Community centres,1731 CHURCHILL AVE,LONDON,N5W 5P4,620.79,Square meters,126,,"112,597.82342",kWh,"30,761.21869",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-HAMILTON RD SENIORS CENTRE,Community centres,898 TRAFALGAR ST,LONDON,N5Z 1G2,801.03,Square meters,126,,"87,018.95101",kWh,"16,057.39092",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-KIWANIS SENIOR CENTRE,Community centres,78 RIVERSIDE DR,LONDON,N6H 1B4,"1,597.97",Square meters,126,,"257,311.08045",kWh,"21,029.33155",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-LAMBETH CC (NG ALSO FEEDS ARENA),Community centres,7112 BEATTIE ST,LONDON,N6P 1A2,"1,635.13",Square meters,126,,912.54936,kWh,"73,894.00062",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-NORTH LONDON OCC,Community centres,1345 CHEAPSIDE ST,LONDON,N5V 3N9,"5,128.37",Square meters,126,,"677,587.72452",kWh,"72,976.80424",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-SOUTH LONDON CC,Community centres,1119 JALNA BLVD,LONDON,N6E 3B3,"2,736.99",Square meters,126,,"185,254.29543",kWh,"33,298.15724",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-SPRINGBANK GARDENS COM CTRE,Community centres,205 WONDERLAND RD S,LONDON,N6K 3T3,224.83,Square meters,126,,"28,658.60100",kWh,"5,990.59914",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-SPRINGBANK PARK-FLINT COTTAGE,Community centres,1097 SPRINGBANK DR,LONDON,N6K 1C5,164.72,Square meters,70,,"1,672.77474",kWh,"1,207.83356",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-EP WILLIAMS ESTATE,Cultural facilities,101 WINDERMERE RD,LONDON,N6G 2J4,866.81,Square meters,126,,"16,110.50726",kWh,"12,528.59039",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-GROSVENOR LODGE,Cultural facilities,1017 WESTERN RD,LONDON,N6G 1G5,856.59,Square meters,70,,"45,250.21726",kWh,"12,890.11127",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-ADELAIDE PUMP STN,Facilities related to the pumping of sewage,1201 ADELAIDE ST N,LONDON,N5Y 2N4,0.00,Square meters,168,8787.74100,"1,047,291.52668",kWh,"116,165.31212",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-BEACHWOOD,Facilities related to the pumping of sewage,326 BEACHWOOD AVE,LONDON,N6J 1K4,0.00,Square meters,168,3016.57500,"1,335.42290",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-BERKSHIRE PUMP STN,Facilities related to the pumping of sewage,201 WONDERLAND RD S,LONDON,N6K 3T3,111.49,Square meters,168,113.91866,"234,557.11445",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-BOSTWICK PUMP STN,Facilities related to the pumping of sewage,1451 WHARNCLIFFE RD S,LONDON,N6L 1J9,34.84,Square meters,168,50.44982,"42,030.38771",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-BROOKDALE PUMP STN,Facilities related to the pumping of sewage,24 BROOKDALE AVE,LONDON,N6J 2W4,0.00,Square meters,168,291.87575,"7,809.20725",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-BROUGHDALE PUMP STN,Facilities related to the pumping of sewage,37 TOWER LN,LONDON,N6A 3L1,26.01,Square meters,168,1630.12600,"27,209.30419",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-BYRON PUMP STN,Facilities related to the pumping of sewage,1322 OLD BRIDGE RD,LONDON,N6K 1Y2,50.17,Square meters,168,51.45284,"207,334.47234",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-CHELSEA GREEN PUMP STN,Facilities related to the pumping of sewage,1 ADELAIDE ST S,LONDON,N5Z 3K2,9.29,Square meters,168,124.15400,"51,767.89326",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-CLARKE RD PUMP STN,Facilities related to the pumping of sewage,479 CLARKE RD,LONDON,N5W 6H1,282.43,Square meters,168,1553.04100,"268,229.60696",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-CRESTWOOD PUMP STN,Facilities related to the pumping of sewage,999 GABOR ST,LONDON,N6K4V5,0.00,Square meters,168,69.73900,"20,646.59907",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-DINGMAN CREEK PUMP STN,Facilities related to the pumping of sewage,3506 DINGMAN DR,LONDON,N6E 3X1,291.72,Square meters,168,0.14900,"170,394.17424",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-EAST PARK PUMP STN,Facilities related to the pumping of sewage,1313 HAMILTON RD,LONDON,N5W 1B1,217.40,Square meters,168,598.02100,"88,794.44987",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-EUSTON ST FAN HOUSE PUMP STN,Facilities related to the pumping of sewage,157 WINSTON AVE,LONDON,N6J 1R7,48.31,Square meters,168,4.32503,"53,505.05132",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-GORE RD PUMP STN,Facilities related to the pumping of sewage,3045 GORE RD,LONDON,N5V 4T2,0.00,Square meters,168,52.30706,"1,729.28858",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-HAZELDON PUMP STN,Facilities related to the pumping of sewage,32 1/2 HAMPTON CRES,LONDON,N6H 2N8,0.00,Square meters,168,849.25100,"10,878.73710",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-HUNT CLUB PUMP STN,Facilities related to the pumping of sewage,104 FITZWILLIAM BLVD,LONDON,N6H 5H4,58.07,Square meters,168,167.28628,"85,752.55161",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-HURON PUMP STN,Facilities related to the pumping of sewage,1099 WILLIAM ST,LONDON,N5Y 2V4,23.78,Square meters,168,695.54600,"24,274.16869",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-HYDE PARK PUMP STN,Facilities related to the pumping of sewage,1439 STAFFORDSHIRE RD,LONDON,N6H 5P8,121.98,Square meters,168,12.02166,"85,160.62542",kWh,29.52600,Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-MANOR PARK PUMP STN,Facilities related to the pumping of sewage,80 TECUMSEH AVE W,LONDON,N6C 1S1,0.00,Square meters,168,4823.46400,"1,894.20341",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-MEDWAY PUMP STN,Facilities related to the pumping of sewage,1424 CORLEY DR,LONDON,N6G 2K4,0.00,Square meters,168,274.96825,"796,173.05161",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-NORTHRIDGE PUMP STN,Facilities related to the pumping of sewage,19 1/2 BENSON CRES,LONDON,N5X 2B1,27.87,Square meters,168,77.70930,"34,344.01549",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-PAARDEBURG PUMP STN,Facilities related to the pumping of sewage,31 1/2 PAARDEBURG CRES,LONDON,N5Y 1B9,9.29,Square meters,168,19.58007,"15,610.51887",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-PITCARNIE PUMP STN,Facilities related to the pumping of sewage,58 PITCARNIE CRES,LONDON,N6G 4N3,9.29,Square meters,168,424.89200,"7,476.17075",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-POND MILLS PUMP STN,Facilities related to the pumping of sewage,1121 COMMISSIONERS RD E,LONDON,N5Z 4L9,94.76,Square meters,168,224.78338,"58,201.24511",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-RIVER BEND PUMP STN,Facilities related to the pumping of sewage,2120 KAINS RD,LONDON,N6K 0C1,353.04,Square meters,168,158.55128,"212,216.32819",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-SANDFORD PUMP STN,Facilities related to the pumping of sewage,1251 SANDFORD,LONDON,N5V 3Y1,9.29,Square meters,168,98.82700,"26,926.33540",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-SOUTHLAND POLLUTION PLANT,Facilities related to the pumping of sewage,100 DENNIS AVE,LONDON,N6P 1B5,59.46,Square meters,168,58.25286,"185,315.31531",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-SOUTHWINDS PUMP STN,Facilities related to the pumping of sewage,3938 WEST GRAHAM PL,LONDON,N6P 1G3,39.95,Square meters,168,0.19374,"100,718.27770",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-STANLEY STREET PUMP STN,Facilities related to the pumping of sewage,10 BECHER ST,LONDON,N6C 1B1,0.00,Square meters,168,6.53131,"5,132.87161",kWh,114.75310,Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-SUMMERCREST PUMP STN,Facilities related to the pumping of sewage,135 OPTIMIST PK DR,LONDON,N6K 4M1,58.07,Square meters,168,129.18900,"38,159.05376",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-SUNNINGHILL PUMP STN,Facilities related to the pumping of sewage,18 MACKELLAR AVE,LONDON,N6H 3L9,0.00,Square meters,168,174.59167,"28,482.39546",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-TALBOT VILLAGE PUMP STN,Facilities related to the pumping of sewage,6664 PACK RD,LONDON,N6P 1M1,18.21,Square meters,168,141.36600,"72,772.37744",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-TRAFALGAR PUMP STN,Facilities related to the pumping of sewage,2264 TRAFALGAR ST,LONDON,N5V 4Z8,148.65,Square meters,168,690.63300,"102,968.62060",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-VICTORIA PUMP STN,Facilities related to the pumping of sewage,27 VICTORIA ST,LONDON,N6A 2B3,0.00,Square meters,168,30.43278,"7,933.51684",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-WESTFIELD VILLAGE PUMP STN,Facilities related to the pumping of sewage,3129 POMEROY LN,LONDON,N6P 0B6,0.00,Square meters,168,26.52790,"25,673.29287",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-WESTMOUNT PUMP STN,Facilities related to the pumping of sewage,603 WONDERLAND RD S,LONDON,N6J 4G7,124.03,Square meters,168,375.43800,"90,693.13512",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-WONDERLAND PUMP STN,Facilities related to the pumping of sewage,4695 DINGMAN DR,LONDON,N6L 1H4,0.00,Square meters,168,9277.25200,"1,753,776.72757",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-ARVA PUMPING,Facilities related to the pumping of water,13966 MEDWAY RD,LONDON,N0M 1C0,724.66,Square meters,168,"37,641.20","5,708,001.73123",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-FANSHAWE WELLS,Facilities related to the pumping of water,2835 CLARKE RD,LONDON,N5X 3Y7,0.00,Square meters,168,735.9,"79,891.75430",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-HYDE PARK PUMP STN,Facilities related to the pumping of water,1439 STAFFORDSHIRE RD,LONDON,N6H 5P8,121.98,Square meters,168,"1,822.00","174,207.38496",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-POND MILLS PUMP STN,Facilities related to the pumping of water,1121 COMMISSIONERS RD E,LONDON,N5Z 4L9,94.76,Square meters,168,"1,598.30","372,039.94955",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-SPRINGBANK PUMP STN/# 3 RES(split),Facilities related to the pumping of water,844 COMMISSIONERS RD W,LONDON,N6K 1C2,0.00,Square meters,168,"4,284.90","831,318.14143",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-WICKERSON PUMP STN,Facilities related to the pumping of water,2080 WICKERSON RD,LONDON,N6K 5C4,104.05,Square meters,168,259.9,"109,033.81317",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-WONDERLAND RD S PUMP STN WSTM,Facilities related to the pumping of water,603 WONDERLAND RD S,LONDON,N6H 3E5,113.72,Square meters,168,589.2,"207,330.86645",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-ADELAIDE PCP,Facilities related to the treatment of sewage,1201 ADELAIDE ST N,LONDON,N5Y 2N4,"1,198.48",Square meters,168,9422.00000,"4,030,935.20968",kWh,"108,467.34544",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-GREENWAY PCC,Facilities related to the treatment of sewage,109 GREENSIDE AVE,LONDON,N6J 2X5,"3,340.13",Square meters,168,47407.00000,"22,818,456.87194",kWh,"1,027,652.72245",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-OXFORD PCP,Facilities related to the treatment of sewage,1570 OXFORD ST W,LONDON,N6H 1W2,581.12,Square meters,168,3610.00000,"3,376,665.36358",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-POTTERSBURG PCP,Facilities related to the treatment of sewage,1139 HAMILTON RD,LONDON,N5W 1B1,"1,108.36",Square meters,168,9861.00000,"4,747,488.91342",kWh,"71,270.61166",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-VAUXHALL PCP,Facilities related to the treatment of sewage,54 PRICE ST,LONDON,N5Z 2H9,0.00,Square meters,168,5756.00000,"2,858,783.06868",kWh,"36,371.92685",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-FIRE HALL # 01,Fire stations and associated offices and facilities,400 HORTON ST E,LONDON,N6B 1L7,"3,060.02",Square meters,168,,"382,198.86323",kWh,"49,575.97737",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-FIRE HALL # 02,Fire stations and associated offices and facilities,1103 FLORENCE ST,LONDON,N5W 2M7,"2,294.76",Square meters,168,,"403,672.99887",kWh,"44,090.59240",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-FIRE HALL # 03,Fire stations and associated offices and facilities,550 COMMISSIONERS RD W,LONDON,N6K 1B7,748.07,Square meters,168,,"70,782.70226",kWh,"21,634.26709",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-FIRE HALL # 04,Fire stations and associated offices and facilities,807 COLBORNE ST,LONDON,N6A 3Z8,410.46,Square meters,168,,"76,203.14313",kWh,"7,540.62493",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-FIRE HALL # 05,Fire stations and associated offices and facilities,751 DEVERON CRES,LONDON,N5Z 5E6,754.39,Square meters,168,,"82,130.56514",kWh,"12,816.67952",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-FIRE HALL # 06,Fire stations and associated offices and facilities,590 OXFORD ST W,LONDON,N6H 1T9,898.02,Square meters,168,,"90,199.45480",kWh,"20,795.19321",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-FIRE HALL # 07,Fire stations and associated offices and facilities,1295 WEBSTER ST,LONDON,N5V 3P8,612.62,Square meters,168,,"49,471.89711",kWh,"14,506.78861",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-FIRE HALL # 08,Fire stations and associated offices and facilities,1565 WESTERN RD,LONDON,N6G 1H5,612.62,Square meters,168,,"61,395.17226",kWh,"16,821.94570",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-FIRE HALL # 09,Fire stations and associated offices and facilities,746 WELLINGTON RD,LONDON,N6C 4R2,"1,429.63",Square meters,168,,"126,414.00935",kWh,"23,677.47602",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-FIRE HALL # 10,Fire stations and associated offices and facilities,2125 TRAFALGAR ST,LONDON,N5V 4Z7,842.00,Square meters,168,,"116,282.66449",kWh,"19,094.09296",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-FIRE HALL # 11,Fire stations and associated offices and facilities,7109 WESTMINSTER DR,LONDON,N6P 1N4,946.43,Square meters,168,,"88,559.96892",kWh,"21,863.84429",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-FIRE HALL # 12,Fire stations and associated offices and facilities,275 BOLER RD,LONDON,N6K 2J9,"1,114.86",Square meters,168,,"252,900.53758",kWh,"38,165.40841",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-FIRE HALL # 12-GREY BOX SEASONAL,Fire stations and associated offices and facilities,275 BOLER RD,LONDON,N6K 2J9,9.29,Square meters,168,,13.38909,kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-FIRE HALL # 13,Fire stations and associated offices and facilities,790 FANSHAWE PK RD E,LONDON,N5X 1L5,408.78,Square meters,168,,"35,700.48000",kWh,"4,615.23142",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-FIRE HALL # 14,Fire stations and associated offices and facilities,2225 HYDE PARK RD,LONDON,N6H 5K2,783.10,Square meters,168,,"70,926.92178",kWh,"8,383.72956",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-CARLING ARENA,Indoor ice rinks,675 GROSVENOR ST,LONDON,N5Y 3T5,"4,867.31",Square meters,126,,"1,011,326.29989",kWh,"94,627.21754",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-FARQUHARSON ARENA,Indoor ice rinks,411 TECUMSEH AVE E,LONDON,N6C 1T4,"3,583.64",Square meters,126,,"706,190.08831",kWh,"33,900.72732",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-GLEN CAIRN ARENA & POOL,Indoor ice rinks,370 CHIPPENDALE CRES,LONDON,N5Z 3G2,"2,728.63",Square meters,126,,"469,494.68036",kWh,"41,883.40264",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-KINSMEN ARENA SPLASH PAD,Indoor ice rinks,20 GRANVILLE ST,LONDON,N6H 1J3,"5,251.01",Square meters,126,,"1,039,617.67895",kWh,"124,414.17151",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-LAMBETH ARENA,Indoor ice rinks,7112  BEATTIE ST,LONDON,N6P 1A2,"3,578.62",Square meters,126,,"701,222.49537",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-MEDWAY ARENA & SPLASH,Indoor ice rinks,119 SHERWOOD FOREST SQ,LONDON,N6G 2C3,"2,324.68",Square meters,126,,"469,131.92846",kWh,"84,285.58764",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-NICHOLS ARENA,Indoor ice rinks,799 HOMEVIEW RD,LONDON,N6C 5S6,"7,019.92",Square meters,126,,"2,002,974.42490",kWh,"122,920.97686",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-OAKRIDGE ARENA-SPL PAD-POOL,Indoor ice rinks,825 VALETTA,LONDON,N6H 2Z2,"2,786.14",Square meters,126,,"392,108.45676",kWh,"51,271.88136",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-SILVERWOOD ARENA,Indoor ice rinks,50 SYCAMORE ST,LONDON,N5Z 1K8,"2,325.61",Square meters,126,,"270,271.90081",kWh,"26,508.85521",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-ARGYLE ARENA,Indoor recreational facilities,1948 WAVELL ST,LONDON,N5V 1P4,"4,576.52",Square meters,126,,"1,080,622.22210",kWh,"108,505.66817",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-STRONACH ARENA & POOL & SPLASH,Indoor recreational facilities,1221 SANDFORD,LONDON,N5V 2J8,"7,125.09",Square meters,126,,"1,659,437.77129",kWh,"133,554.04502",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-CANADA GAMES AQUATIC CTR,Indoor swimming pools,1045 WONDERLAND RD N,LONDON,N6G 2Y9,"4,761.21",Square meters,126,,"2,005,738.44091",kWh,"141,624.34985",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-CARLING HEIGHTS OCC-POOL (Internal meter),Indoor swimming pools,654 ELIZABETH ST,LONDON,N5Y 6L3,"1,086.06",Square meters,126,,"1,014,182.68675",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-SOUTH LONDON POOL - TVDSB,Indoor swimming pools,565 BRADLEY AVE,LONDON,N63 3Z8,"1,683.07",Square meters,126,,"879,842.57548",kWh,"106,115.68903",Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-AJ TYLER - UNIT QUONSE,Other,663 BATHURST ST,LONDON,N5Z 1P8,157.94,Square meters,168,,,,158.21257,Cubic Meter,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-AJ TYLER BLDG-GUARD SHED,Other,665 BATHURST ST,LONDON,N5Z 1P8,7.43,Square meters,168,,"7,671.75705",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-BASIL GROVER PK,Other,555 WHARNCLIFFE RD S,LONDON,N6J 2A1,93.00,Square meters,168,,"2,013.02484",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-BYRON CC & POOL,Other,1308 NORMAN AVE,LONDON,N6K 2A3,143.07,Square meters,168,,"18,457.27883",kWh,,,,,,,,,,,,,,,,,,,,,0.00000,0.00000,0.00000,
-CITY WIDE SPORTS PARK,Other,1610 COMMISSIONERS RD E,LONDON,N6M 1E8,470.94,Square meters,168,,"169,303.97287",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-COAL TAR,Other,75 HORTON ST,LONDON,N6J 1E8,27.87,Square meters,168,,"28,382.90364",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-DEARNESS HOME,Other,710 SOUTHDALE RD E,LONDON,N6E 1R8,"17,342.07",Square meters,168,,"3,764,776.66468",kWh,"645,317.40865",Cubic Meter,,,,,,,,,,,,,,,,,,,,,,
-EAST LIONS PARK-POOL,Other,1731 CHURCHILL AVE,LONDON,N5W 5P4,343.75,Square meters,168,,34.96296,kWh,,,,,,,,,,,,,,,,,,,,,,,,
-ED BLAKE PK,Other,449 BARKER ST,LONDON,N5Y 5B2,97.09,Square meters,168,,"5,938.07080",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-FANSHAWE GOLF COURSE-MAIN CLUBHOUSE,Other,2835 SUNNINGDALE RD E,LONDON,N5X 3Y7,"1,053.08",Square meters,168,,"228,179.02968",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-FANSHAWE GOLF COURSE-MTCE BLDG,Other,2835 SUNNINGDALE RD E,LONDON,N5X 3Y7,260.13,Square meters,168,,"39,585.41637",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-FANSHAWE GOLF COURSE-PARKSIDE NINE,Other,2835 SUNNINGDALE RD E,LONDON,N5X 3Y7,163.51,Square meters,168,,"2,481.95585",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-FIDO PARK FIELD HOUSE,Other,733 WINDERMERE RD,LONDON,N5X 3P1,60.11,Square meters,168,,"3,118.56500",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-FORKS OF THE THAMES MUSEUM & SPL P,Other,1 DUNDAS ST,LONDON,N6A 5L7,163.51,Square meters,168,,"52,664.30838",kWh,"3,233.84868",Cubic Meter,,,,,,,,,,,,,,,,,,,,,,
-GIBBONS PARK-POOL-SPLASH PAD,Other,2A GROSVENOR ST,LONDON,N6A 1Y4,348.02,Square meters,168,,"35,940.40875",kWh,"5,515.52143",Cubic Meter,,,,,,,,,,,,,,,,,,,,,,
-GLANWORTH PARK-FIELD HOUSE,Other,6536 BRADISH RD,LONDON,N6N 1N6,201.14,Square meters,168,,"3,037.15407",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-GREENWAY PARK #2,Other,5 GREENSIDE AVE,LONDON,N6J 2X5,93.00,Square meters,168,,61.57903,kWh,,,,,,,,,,,,,,,,,,,,,,,,
-HAMLYN PARK-EQUIPMENT BLDG,Other,101 DENNIS AVE,LONDON,N6P 1B5,117.62,Square meters,168,,"1,849.88126",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-HARRIS PARK,Other,531 RIDOUT ST N,LONDON,N6A 2P9,74.32,Square meters,168,,"24,696.31417",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-IVEY PARK-PAVILLION,Other,331 THAMES ST,LONDON,N6A 5N8,125.42,Square meters,168,,"8,074.91121",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-JESSE DAVIDSON PARK 1-2 SPL PAD,Other,731 VISCOUNT RD,LONDON,N6J 4G9,46.45,Square meters,168,,"3,033.84355",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-KIWANIS PARK PAVILLION SPL PAD,Other,612 HALE ST,LONDON,N5W 1H4,116.41,Square meters,168,,"4,418.63708",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-LABATT PARK-CLUB HOUSE,Other,25 WILSON AVE,LONDON,N6H 1X2,132.39,Square meters,168,,"1,690.69907",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-LABATT PARK-ENTRANCE SSTNDS,Other,25 WILSON,LONDON,N6H 1X2,264.78,Square meters,168,,"4,168.97545",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-LABATT PARK-SSTND,Other,25 WILSON AVE,LONDON,N6H 1X2,"1,647.77",Square meters,168,,"255,161.81766",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-LAMBETH PARK (CAMPBELL ST)-BALL DIAMOND,Other,4200 CAMPBELL,LONDON,N6P 1S7,59.65,Square meters,168,,"5,954.86333",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-LANDFILL-W12-A,Other,3502 MANNING DR,LONDON,N6L 1K6,202.81,Square meters,168,,"303,893.69553",kWh,"28,724.60554",Cubic Meter,,,,,,,,,,,,,,,,,,,,,,
-LITTLE LEAGUE PARK,Other,65 TWEED CRES,LONDON,N5X 1Z5,10.22,Square meters,168,,13.51000,kWh,,,,,,,,,,,,,,,,,,,,,,,,
-MCMAHEN PARK,Other,640 ADELAIDE ST N,LONDON,N6B 2G4,106.84,Square meters,168,,"6,045.03177",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-MEREDITH PARK-FIELD HOUSE,Other,450 NELSON AVE,LONDON,N6B 1A8,83.61,Square meters,168,,"2,563.05750",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-MURRAY PARK-FIELD HOUSE,Other,75 CLIFTONVALE AVE,LONDON,N6J 1J6,83.61,Square meters,168,,647.96000,kWh,,,,,,,,,,,,,,,,,,,,,,,,
-NORTHEAST RECREATION CENTRE-POOL,Other,1050 VICTORIA,LONDON,N5Y 1L2,157.01,Square meters,168,,"32,499.91875",kWh,"6,269.35639",Cubic Meter,,,,,,,,,,,,,,,,,,,,,,
-NORTHRIDGE POOL,Other,15 MCLEAN DR,LONDON,N5X 1Y3,143.07,Square meters,168,,"20,426.73645",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-OAKRDG PK-FLDHS-WADDING PL,Other,825 VALETTA ST,LONDON,N6H 2Z2,131.93,Square meters,168,,"6,211.90120",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-OXFORD ENVIRO DEPOT,Other,1450 OXFORD ST W,LONDON,N6H 1W2,92.91,Square meters,168,,"92,918.52314",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-OXFORD ST W SALT SHED,Other,1570 OXFORD ST W,LONDON,N6H 1W2,"1,574.37",Square meters,168,,"55,417.21675",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-PLANNING/DEV - RENTAL,Other,520 WELLINGTON ST UN 11 &12,LONDON,N6A 4L9,261.90,Square meters,168,,"38,299.58617",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-RIVER RD GOLF COURSE-MAIN CLUBHOUSE,Other,2115 RIVER RD,LONDON,N5W 6C4,418.07,Square meters,168,,"84,667.52402",kWh,"8,657.09093",Cubic Meter,,,,,,,,,,,,,,,,,,,,,,
-RIVER RD GOLF COURSE-MTCE BLDG,Other,2115 RIVER RD,LONDON,N5W 6C4,222.97,Square meters,168,,"14,884.74366",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-ROWNTREE PARK SPLASH PAD,Other,750 WHETTER AVE,LONDON,N6C 2C3,83.24,Square meters,168,,"1,269.57787",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-SE 3,Other,28 CLARKE RD,LONDON,N5W 5W5,91.05,Square meters,168,,"34,139.14032",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-SILVERWOOD BATH HOUSE-SNORKLE,Other,50 SYCAMORE ST,LONDON,N5Z 1K8,345.61,Square meters,168,,"6,925.64790",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-SOUTHCREST POOL,Other,10 HAZELWOOD AVE,LONDON,N6J 3K1,430.71,Square meters,168,,"67,614.39311",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-SOUTHEAST OPT PK-FLD HS-SPL PAD,Other,237 DEVERON CRES,LONDON,N5Z 4J7,105.73,Square meters,168,,"15,267.79191",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-SOUTHWEST OPT PARK 1-2,Other,682 SOUTHDALE RD W,LONDON,N6K 4W7,161.10,Square meters,168,,"33,771.81924",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-SPRINGBANK PARK WASHROOM,Other,1085 COMMISSIONERS RD W,LONDON,N6K 1C5,93.00,Square meters,168,,"38,263.29234",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-SPRINGBANK PARK-CONCESSION,Other,1085 COMMISSIONERS RD W,LONDON,N6K 1C5,80.73,Square meters,168,,"10,821.67581",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-SPRINGBANK PARK-FLINT SHELTER,Other,1085 COMMISSIONERS RD W,LONDON,N6K 1C6,151.90,Square meters,168,,"7,786.26571",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-SPRINGBANK PARK-PUMP HOUSE,Other,1085 COMMISSIONERS RD W,LONDON,N6K 1C6,510.33,Square meters,168,,"86,342.86429",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-SPRINGBANK PARK-PUMP HOUSE LIGHTS,Other,1085 COMMISSIONERS RD W,LONDON,N6K 1C7,151.90,Square meters,168,,499.88105,kWh,,,,,,,,,,,,,,,,,,,,,,,,
-SPRINGBANK PMP HSE  FCV #8-12,Other,883 SPRINGBANK DR,LONDON,N6K 1A5,298.13,Square meters,168,,"1,543.14000",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-ST JULIEN PARK-FIELD HOUSE,Other,15 TOMMY HUNTER WAY,LONDON,N5Z 2T4,51.66,Square meters,168,,"2,638.19362",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-STONEYBROOK RECREATION,Other,1207 ADELAIDE ST N,LONDON,N5X 1J9,251.96,Square meters,168,,"79,979.13844",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-STORYBOOK -CONCESSION-PIECES OF 8,Other,1958 STORYBOOK LN,LONDON,N6K 4Y6,97.55,Square meters,168,,"6,685.61240",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-STORYBOOK PLAYWORLD,Other,1958 STORYBOOK LN,LONDON,N6K 4Y6,"1,328.55",Square meters,168,,"3,010.56000",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-STRONACH - STADIUM/CONCESSION,Other,1221 SANDFORD ST,LONDON,N5V 2J8,167.23,Square meters,168,,"20,291.97677",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-THAMES GC-SNK B 10TH/PARK LT,Other,850 SUNNINGHILL AVE,LONDON,N6H 3L9,88.26,Square meters,168,,"39,855.82204",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-THAMES GOLF COURSE-MAIN CLUBHOUSE,Other,850 SUNNINGHILL AVE,LONDON,N6H 3L9,"1,165.96",Square meters,168,,"277,850.25200",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-THAMES GOLF COURSE-MTCE BLDG,Other,850 SUNNINGHILL AVE,LONDON,N6H 3L9,390.20,Square meters,168,,"24,314.55164",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-THAMES PARK-FIELD HOUSE,Other,15 RIDOUT ST,LONDON,N6A 4H6,105.26,Square meters,168,,"12,586.01840",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-THAMES PARK-POOL,Other,15 RIDOUT ST,LONDON,N6A 4H6,489.05,Square meters,168,,"90,500.23000",kWh,"29,183.84200",Cubic Meter,,,,,,,,,,,,,,,,,,,,,,
-VAUXHALL PARK-FIELD HOUSE,Other,54 PRICE ST,LONDON,N5Z 2H9,117.62,Square meters,168,,"25,891.76660",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-VICTORIA PARK BANDSHELL-ELEC RM,Other,580 CLARENCE ST,LONDON,N6A 3N1,756.71,Square meters,168,,"131,622.32840",kWh,"21,197.07636",Cubic Meter,,,,,,,,,,,,,,,,,,,,,,
-WESTMINSTER OPT PK POOL,Other,650 OSGOODE DR,LONDON,N6E 2G2,167.51,Square meters,168,,"29,886.83636",kWh,"16,018.73591",Cubic Meter,,,,,,,,,,,,,,,,,,,,,,
-WOLSELY OPS GARAGE(NG shared T-BLOCK),"Storage facilities where equipment or vehicles are maintained, repaired or stored",654 ELIZABETH ST,LONDON,N5Y 6L3,627.11,Square meters,168,,"1,887.27283",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-WONDERLAND GARDENS,Other,285 WONDERLAND RD S,LONDON,N6K 3T3,551.02,Square meters,168,,"28,786.85474",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-ADELAIDE OPS CTRE - 1153,"Storage facilities where equipment or vehicles are maintained, repaired or stored",1153 ADELAIDE ST N,LONDON,N5Y 2N4,"2,386.27",Square meters,168,,"366,997.77704",kWh,"125,989.93334",Cubic Meter,,,,,,,,,,,,,,,,,,,,,,
-ADMIN-PCP,"Storage facilities where equipment or vehicles are maintained, repaired or stored",3901 WEST GRAHAM PL,LONDON,N6P 1G4,76.65,Square meters,168,,"57,498.06852",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-AJ TYLER - MAIN BLDG & (E) WATER/SEWER BLDG,"Storage facilities where equipment or vehicles are maintained, repaired or stored",663 BATHURST ST,LONDON,N5Z 1P8,"2,117.22",Square meters,50,,"1,703,250.88717",kWh,"149,343.19201",Cubic Meter,,,,,,,,,,,,,,,,,,,,,,
-AJ TYLER BLDG -# 1 WATER STORAGE,"Storage facilities where equipment or vehicles are maintained, repaired or stored",663 BATHURST ST,LONDON,N5Z 1P8,576.01,Square meters,50,,"21,742.31260",kWh,"13,295.57694",Cubic Meter,,,,,,,,,,,,,,,,,,,,,,
-AJ TYLER BLDG- STORES BLDG,"Storage facilities where equipment or vehicles are maintained, repaired or stored",663 BATHURST ST,LONDON,N5Z 1P8,152.64,Square meters,50,,216.53371,kWh,"117,502.48526",Cubic Meter,,,,,,,,,,,,,,,,,,,,,,
-AJ TYLER BLDG-# 2 SEWER STORAGE,"Storage facilities where equipment or vehicles are maintained, repaired or stored",663 BATHURST ST,LONDON,N5Z 1P8,576.01,Square meters,50,,"39,422.91223",kWh,"17,983.60295",Cubic Meter,,,,,,,,,,,,,,,,,,,,,,
-AJ TYLER BLDG-WATER/SEWER BLDG,"Storage facilities where equipment or vehicles are maintained, repaired or stored",663 BATHURST ST,LONDON,N5Z 1P8,557.43,Square meters,50,,,,"7,942.93948",Cubic Meter,,,,,,,,,,,,,,,,,,,,,,
-CAVENDISH OPS CTRE,"Storage facilities where equipment or vehicles are maintained, repaired or stored",136 CAVENDISH CRES,LONDON,N6H 1A6,78.97,Square meters,168,,"11,044.51217",kWh,"2,257.44265",Cubic Meter,,,,,,,,,,,,,,,,,,,,,,
-EXETER RD OC,"Storage facilities where equipment or vehicles are maintained, repaired or stored",707 EXETER RD,LONDON,N6E 1L3,"5,304.89",Square meters,126,,"678,624.32230",kWh,"76,452.64491",Cubic Meter,,,,,,,,,,,,,,,,,,,,,,
-MCMANUS BOATHOUSE,"Storage facilities where equipment or vehicles are maintained, repaired or stored",199 WONDERLAND RD S,LONDON,N6K 3T3,569.23,Square meters,60,,"25,596.97181",kWh,"8,931.20959",Cubic Meter,,,,,,,,,,,,,,,,,,,,,,
-OXFORD OPS CTRE,"Storage facilities where equipment or vehicles are maintained, repaired or stored",1570 OXFORD ST W,LONDON,N6H 1W2,628.50,Square meters,80,,"13,396.94000",kWh,"23,134.47452",Cubic Meter,,,,,,,,,,,,,,,,,,,,,,
-ROSE GARDEN - OFFICE/STORAGE,"Storage facilities where equipment or vehicles are maintained, repaired or stored",645 SPRINGBANK DR,LONDON,N6K 4T1,579.73,Square meters,70,,"53,504.70290",kWh,"7,125.82529",Cubic Meter,,,,,,,,,,,,,,,,,,,,,,
-STORAGE BUILDING,"Storage facilities where equipment or vehicles are maintained, repaired or stored",1220 ADELAIDE ST N,LONDON,N5Y 2N4,226.69,Square meters,70,,"17,022.30409",kWh,,,,,,,,,,,,,,,,,,,,,,,,
-WILTON GROVE STORAGE,"Storage facilities where equipment or vehicles are maintained, repaired or stored",1554 WILTON GROVE,LONDON,N6N 1M4,"2,034.63",Square meters,70,,"23,814.73097",kWh,"6,013.92990",Cubic Meter,,,,,,,,,,,,,,,,,,,,,,
+Operation Name,Operation Type,Address,City,Postal Code,Total Floor Area,Unit1,Average Hours Per Week,Annual Flow,Electricity,Unit2,Natural Gas,Unit3,Fuel Oil 1 & 2,Unit4,Fuel Oil 4 & 6,Unit5,Propane,Unit6,Coal,Unit7,Wood,Unit8,District Heat,Unit9,Renewable1,Emission Factor1,District Cool,Unit10,Renewable2,Emission Factor2,GHG Emissions (Kg),Energy Intensity (ekWh/sqft),Energy Intensity (ekWh/Mega Litres),Comments,lat,lng
+AJ TYLER - MAIN BLDG & (E) WATER/SEWER BLDG,"Administrative offices and related facilities, including municipal council chambers",663 BATHURST ST,LONDON,N5Z 1P8,"2,117.22",Square meters,50,,"1,703,250.88717",kWh,"149,343.19201",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9848552,-81.2304173
+CITY HALL,"Administrative offices and related facilities, including municipal council chambers",300 DUFFERIN AVE,LONDON,N6B 1Z2,"16,257.50",Square meters,126,,"2,551,993.70279",kWh,,,,,,,,,,,,,"3,791.61432",Giga Joule,No,,"2,940.66480",Giga Joule,No,,0.0,0.0,0.0,,42.9877504,-81.2464214
+ENVIRO PROGS - RENTAL,"Administrative offices and related facilities, including municipal council chambers","520 WELLINGTON ST UN 1,2,3",LONDON,N6A 3R2,261.90,Square meters,60,,"21,751.91759",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,
+J ALLAN TAYLOR BLDG,"Administrative offices and related facilities, including municipal council chambers",267 DUNDAS ST,LONDON,N6A 1H2,"2,425.76",Square meters,70,,"286,063.89556",kWh,"7,773.09771",Cubic Meter,,,,,,,,,,,"1,396.57127",Giga Joule,No,,"1,851.12560",Giga Joule,No,,0.0,0.0,0.0,,42.98471,-81.2454562
+OXFORD OPS CTRE,"Administrative offices and related facilities, including municipal council chambers",1570 OXFORD ST W,LONDON,N6H 1W2,628.50,Square meters,80,,"13,396.94000",kWh,"23,134.47452",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.971562,-81.3345411
+PROVINCIAL OFFENCE ACT OFFICES,"Administrative offices and related facilities, including municipal council chambers",824 DUNDAS ST,LONDON,N5W 5R1,"2,108.02",Square meters,70,,"336,642.30000",kWh,"30,839.96720",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9911735352941,-81.2240402705882
+T-BLOCK(NG shared WOLSELY),"Administrative offices and related facilities, including municipal council chambers",652 ELIZABETH ST,LONDON,N5Y 4T7,"1,516.21",Square meters,70,,"38,942.61111",kWh,"40,212.63485",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9987718,-81.233576
+TOURISM LONDON,"Administrative offices and related facilities, including municipal council chambers",696 WELLINGTON RD,LONDON,N6C 4R2,315.88,Square meters,70,,"32,128.19697",kWh,"10,636.45943",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.94773575,-81.2269444506159
+CENTENNIAL HALL,Performing arts facilities,550 WELLINGTON ST,LONDON,N6A 3P9,"4,649.91",Square meters,70,,"837,310.36489",kWh,,,,,,,,,,,,,"3,740.97646",Giga Joule,No,,"1,024.00410",Giga Joule,No,,0.0,0.0,0.0,,42.9892119,-81.2466055416328
+BOYLE CC,Community centres,530 CHARLOTTE ST,LONDON,N5W 4A4,791.74,Square meters,126,,"67,405.16074",kWh,"9,787.48085",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9966771347937,-81.2186794443261
+BYRON CC - POLE BASE,Community centres,1308 NORMAN AVE,LONDON,N6K 2A3,770.18,Square meters,126,,"101,915.99581",kWh,"23,507.86163",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9571509,-81.3361288
+CARLING HEIGHTS OCC,Community centres,654 ELIZABETH ST,LONDON,N5Y 6L3,"3,538.76",Square meters,126,,"40,582.88442",kWh,"145,490.65122",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9987718,-81.233576
+CIVIC GARDEN COMPLEX,Community centres,625 SPRINGBANK DR,LONDON,N6K 4T1,"1,794.19",Square meters,126,,"173,292.21570",kWh,"109,942.30792",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9625799714286,-81.2954907035714
+EAST LIONS ARTISANS CC  & POOL,Community centres,1731 CHURCHILL AVE,LONDON,N5W 5P4,620.79,Square meters,126,,"112,597.82342",kWh,"30,761.21869",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9997093,-81.1765764
+HAMILTON RD SENIORS CENTRE,Community centres,898 TRAFALGAR ST,LONDON,N5Z 1G2,801.03,Square meters,126,,"87,018.95101",kWh,"16,057.39092",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9796469,-81.2152746
+KIWANIS SENIOR CENTRE,Community centres,78 RIVERSIDE DR,LONDON,N6H 1B4,"1,597.97",Square meters,126,,"257,311.08045",kWh,"21,029.33155",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9827141569511,-81.2612008102205
+LAMBETH CC (NG ALSO FEEDS ARENA),Community centres,7112 BEATTIE ST,LONDON,N6P 1A2,"1,635.13",Square meters,126,,912.54936,kWh,"73,894.00062",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9097001068087,-81.3045035745406
+NORTH LONDON OCC,Community centres,1345 CHEAPSIDE ST,LONDON,N5V 3N9,"5,128.37",Square meters,126,,"677,587.72452",kWh,"72,976.80424",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,43.015113,-81.208542
+SOUTH LONDON CC,Community centres,1119 JALNA BLVD,LONDON,N6E 3B3,"2,736.99",Square meters,126,,"185,254.29543",kWh,"33,298.15724",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9306748,-81.2273092
+SPRINGBANK GARDENS COM CTRE,Community centres,205 WONDERLAND RD S,LONDON,N6K 3T3,224.83,Square meters,126,,"28,658.60100",kWh,"5,990.59914",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9613026,-81.2933324
+SPRINGBANK PARK-FLINT COTTAGE,Community centres,1097 SPRINGBANK DR,LONDON,N6K 1C5,164.72,Square meters,70,,"1,672.77474",kWh,"1,207.83356",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9546621,-81.3156959
+EP WILLIAMS ESTATE,Cultural facilities,101 WINDERMERE RD,LONDON,N6G 2J4,866.81,Square meters,126,,"16,110.50726",kWh,"12,528.59039",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,43.012026,-81.291877
+GROSVENOR LODGE,Cultural facilities,1017 WESTERN RD,LONDON,N6G 1G5,856.59,Square meters,70,,"45,250.21726",kWh,"12,890.11127",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9962746941887,-81.2741523885326
+ADELAIDE PUMP STN,Facilities related to the pumping of sewage,1201 ADELAIDE ST N,LONDON,N5Y 2N4,0.00,Square meters,168,8787.74100,"1,047,291.52668",kWh,"116,165.31212",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,43.0114376,-81.2427961
+BEACHWOOD,Facilities related to the pumping of sewage,326 BEACHWOOD AVE,LONDON,N6J 1K4,0.00,Square meters,168,3016.57500,"1,335.42290",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9662951,-81.2773
+BERKSHIRE PUMP STN,Facilities related to the pumping of sewage,201 WONDERLAND RD S,LONDON,N6K 3T3,111.49,Square meters,168,113.91866,"234,557.11445",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9613026,-81.2933324
+BOSTWICK PUMP STN,Facilities related to the pumping of sewage,1451 WHARNCLIFFE RD S,LONDON,N6L 1J9,34.84,Square meters,168,50.44982,"42,030.38771",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9293558617346,-81.2706747389808
+BROOKDALE PUMP STN,Facilities related to the pumping of sewage,24 BROOKDALE AVE,LONDON,N6J 2W4,0.00,Square meters,168,291.87575,"7,809.20725",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9745474,-81.2673897
+BROUGHDALE PUMP STN,Facilities related to the pumping of sewage,37 TOWER LN,LONDON,N6A 3L1,26.01,Square meters,168,1630.12600,"27,209.30419",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,43.00869665,-81.2648525560892
+BYRON PUMP STN,Facilities related to the pumping of sewage,1322 OLD BRIDGE RD,LONDON,N6K 1Y2,50.17,Square meters,168,51.45284,"207,334.47234",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,
+CHELSEA GREEN PUMP STN,Facilities related to the pumping of sewage,1 ADELAIDE ST S,LONDON,N5Z 3K2,9.29,Square meters,168,124.15400,"51,767.89326",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.974344,-81.2255029
+CLARKE RD PUMP STN,Facilities related to the pumping of sewage,479 CLARKE RD,LONDON,N5W 6H1,282.43,Square meters,168,1553.04100,"268,229.60696",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,43.041672,-81.1945997
+CRESTWOOD PUMP STN,Facilities related to the pumping of sewage,999 GABOR ST,LONDON,N6K4V5,0.00,Square meters,168,69.73900,"20,646.59907",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9424868346154,-81.3113104961539
+DINGMAN CREEK PUMP STN,Facilities related to the pumping of sewage,3506 DINGMAN DR,LONDON,N6E 3X1,291.72,Square meters,168,0.14900,"170,394.17424",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9127292472928,-81.2268277997608
+EAST PARK PUMP STN,Facilities related to the pumping of sewage,1313 HAMILTON RD,LONDON,N5W 1B1,217.40,Square meters,168,598.02100,"88,794.44987",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.96536,-81.1441235
+EUSTON ST FAN HOUSE PUMP STN,Facilities related to the pumping of sewage,157 WINSTON AVE,LONDON,N6J 1R7,48.31,Square meters,168,4.32503,"53,505.05132",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9630901,-81.2673179
+GORE RD PUMP STN,Facilities related to the pumping of sewage,3045 GORE RD,LONDON,N5V 4T2,0.00,Square meters,168,52.30706,"1,729.28858",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9775374,-81.17515
+HAZELDON PUMP STN,Facilities related to the pumping of sewage,32 1/2 HAMPTON CRES,LONDON,N6H 2N8,0.00,Square meters,168,849.25100,"10,878.73710",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9600916007257,-81.3149235909015
+HUNT CLUB PUMP STN,Facilities related to the pumping of sewage,104 FITZWILLIAM BLVD,LONDON,N6H 5H4,58.07,Square meters,168,167.28628,"85,752.55161",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9797292815753,-81.3315213401691
+HURON PUMP STN,Facilities related to the pumping of sewage,1099 WILLIAM ST,LONDON,N5Y 2V4,23.78,Square meters,168,695.54600,"24,274.16869",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,43.0074384,-81.2440964
+HYDE PARK PUMP STN,Facilities related to the pumping of sewage,1439 STAFFORDSHIRE RD,LONDON,N6H 5P8,121.98,Square meters,168,12.02166,"85,160.62542",kWh,29.52600,Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9852958,-81.3316486
+MANOR PARK PUMP STN,Facilities related to the pumping of sewage,80 TECUMSEH AVE W,LONDON,N6C 1S1,0.00,Square meters,168,4823.46400,"1,894.20341",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9695035,-81.2439573
+MEDWAY PUMP STN,Facilities related to the pumping of sewage,1424 CORLEY DR,LONDON,N6G 2K4,0.00,Square meters,168,274.96825,"796,173.05161",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,43.0104902633193,-81.2827210857311
+NORTHRIDGE PUMP STN,Facilities related to the pumping of sewage,19 1/2 BENSON CRES,LONDON,N5X 2B1,27.87,Square meters,168,77.70930,"34,344.01549",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,43.0374822339056,-81.2296749004293
+PAARDEBURG PUMP STN,Facilities related to the pumping of sewage,31 1/2 PAARDEBURG CRES,LONDON,N5Y 1B9,9.29,Square meters,168,19.58007,"15,610.51887",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,43.0096572,-81.210976
+PITCARNIE PUMP STN,Facilities related to the pumping of sewage,58 PITCARNIE CRES,LONDON,N6G 4N3,9.29,Square meters,168,424.89200,"7,476.17075",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,43.0112179,-81.3042094
+POND MILLS PUMP STN,Facilities related to the pumping of sewage,1121 COMMISSIONERS RD E,LONDON,N5Z 4L9,94.76,Square meters,168,224.78338,"58,201.24511",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9617456,-81.1979785
+RIVER BEND PUMP STN,Facilities related to the pumping of sewage,2120 KAINS RD,LONDON,N6K 0C1,353.04,Square meters,168,158.55128,"212,216.32819",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9694926,-81.3702385
+SANDFORD PUMP STN,Facilities related to the pumping of sewage,1251 SANDFORD,LONDON,N5V 3Y1,9.29,Square meters,168,98.82700,"26,926.33540",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,43.023127,-81.204989
+SOUTHLAND POLLUTION PLANT,Facilities related to the pumping of sewage,100 DENNIS AVE,LONDON,N6P 1B5,59.46,Square meters,168,58.25286,"185,315.31531",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9076268,-81.2898129
+SOUTHWINDS PUMP STN,Facilities related to the pumping of sewage,3938 WEST GRAHAM PL,LONDON,N6P 1G3,39.95,Square meters,168,0.19374,"100,718.27770",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9162442664427,-81.3204768112991
+STANLEY STREET PUMP STN,Facilities related to the pumping of sewage,10 BECHER ST,LONDON,N6C 1B1,0.00,Square meters,168,6.53131,"5,132.87161",kWh,114.75310,Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9792895,-81.2593287
+SUMMERCREST PUMP STN,Facilities related to the pumping of sewage,135 OPTIMIST PK DR,LONDON,N6K 4M1,58.07,Square meters,168,129.18900,"38,159.05376",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9386549979543,-81.3360206596018
+SUNNINGHILL PUMP STN,Facilities related to the pumping of sewage,18 MACKELLAR AVE,LONDON,N6H 3L9,0.00,Square meters,168,174.59167,"28,482.39546",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9658544,-81.2987181
+TALBOT VILLAGE PUMP STN,Facilities related to the pumping of sewage,6664 PACK RD,LONDON,N6P 1M1,18.21,Square meters,168,141.36600,"72,772.37744",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9256433,-81.3147283
+TRAFALGAR PUMP STN,Facilities related to the pumping of sewage,2264 TRAFALGAR ST,LONDON,N5V 4Z8,148.65,Square meters,168,690.63300,"102,968.62060",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9829737,-81.2031709
+VICTORIA PUMP STN,Facilities related to the pumping of sewage,27 VICTORIA ST,LONDON,N6A 2B3,0.00,Square meters,168,30.43278,"7,933.51684",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,43.0010093,-81.2672495
+WESTFIELD VILLAGE PUMP STN,Facilities related to the pumping of sewage,3129 POMEROY LN,LONDON,N6P 0B6,0.00,Square meters,168,26.52790,"25,673.29287",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.936817,-81.3114316
+WESTMOUNT PUMP STN,Facilities related to the pumping of sewage,603 WONDERLAND RD S,LONDON,N6J 4G7,124.03,Square meters,168,375.43800,"90,693.13512",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9538612727273,-81.2908736948052
+WONDERLAND PUMP STN,Facilities related to the pumping of sewage,4695 DINGMAN DR,LONDON,N6L 1H4,0.00,Square meters,168,9277.25200,"1,753,776.72757",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9092062899543,-81.2643052471073
+ARVA PUMPING,Facilities related to the pumping of water,13966 MEDWAY RD,LONDON,N0M 1C0,724.66,Square meters,168,"37,641.20","5,708,001.73123",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,
+FANSHAWE WELLS,Facilities related to the pumping of water,2835 CLARKE RD,LONDON,N5X 3Y7,0.00,Square meters,168,735.9,"79,891.75430",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,43.041672,-81.1945997
+HYDE PARK PUMP STN,Facilities related to the pumping of water,1439 STAFFORDSHIRE RD,LONDON,N6H 5P8,121.98,Square meters,168,"1,822.00","174,207.38496",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9852958,-81.3316486
+POND MILLS PUMP STN,Facilities related to the pumping of water,1121 COMMISSIONERS RD E,LONDON,N5Z 4L9,94.76,Square meters,168,"1,598.30","372,039.94955",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9617456,-81.1979785
+SPRINGBANK PUMP STN/# 3 RES(split),Facilities related to the pumping of water,844 COMMISSIONERS RD W,LONDON,N6K 1C2,0.00,Square meters,168,"4,284.90","831,318.14143",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9531075043478,-81.3094974652174
+WICKERSON PUMP STN,Facilities related to the pumping of water,2080 WICKERSON RD,LONDON,N6K 5C4,104.05,Square meters,168,259.9,"109,033.81317",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9491795080899,-81.3503068588759
+WONDERLAND RD S PUMP STN WSTM,Facilities related to the pumping of water,603 WONDERLAND RD S,LONDON,N6H 3E5,113.72,Square meters,168,589.2,"207,330.86645",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9538612727273,-81.2908736948052
+ADELAIDE PCP,Facilities related to the treatment of sewage,1201 ADELAIDE ST N,LONDON,N5Y 2N4,"1,198.48",Square meters,168,9422.00000,"4,030,935.20968",kWh,"108,467.34544",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,43.0114376,-81.2427961
+GREENWAY PCC,Facilities related to the treatment of sewage,109 GREENSIDE AVE,LONDON,N6J 2X5,"3,340.13",Square meters,168,47407.00000,"22,818,456.87194",kWh,"1,027,652.72245",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,,
+OXFORD PCP,Facilities related to the treatment of sewage,1570 OXFORD ST W,LONDON,N6H 1W2,581.12,Square meters,168,3610.00000,"3,376,665.36358",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.971562,-81.3345411
+POTTERSBURG PCP,Facilities related to the treatment of sewage,1139 HAMILTON RD,LONDON,N5W 1B1,"1,108.36",Square meters,168,9861.00000,"4,747,488.91342",kWh,"71,270.61166",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.96536,-81.1441235
+VAUXHALL PCP,Facilities related to the treatment of sewage,54 PRICE ST,LONDON,N5Z 2H9,0.00,Square meters,168,5756.00000,"2,858,783.06868",kWh,"36,371.92685",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9756733084415,-81.2073481708143
+FIRE HALL # 01,Fire stations and associated offices and facilities,400 HORTON ST E,LONDON,N6B 1L7,"3,060.02",Square meters,168,,"382,198.86323",kWh,"49,575.97737",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9817872,-81.2375347
+FIRE HALL # 02,Fire stations and associated offices and facilities,1103 FLORENCE ST,LONDON,N5W 2M7,"2,294.76",Square meters,168,,"403,672.99887",kWh,"44,090.59240",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9906552,-81.212471
+FIRE HALL # 03,Fire stations and associated offices and facilities,550 COMMISSIONERS RD W,LONDON,N6K 1B7,748.07,Square meters,168,,"70,782.70226",kWh,"21,634.26709",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9538022285714,-81.2918504857143
+FIRE HALL # 04,Fire stations and associated offices and facilities,807 COLBORNE ST,LONDON,N6A 3Z8,410.46,Square meters,168,,"76,203.14313",kWh,"7,540.62493",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.999574,-81.2466024
+FIRE HALL # 05,Fire stations and associated offices and facilities,751 DEVERON CRES,LONDON,N5Z 5E6,754.39,Square meters,168,,"82,130.56514",kWh,"12,816.67952",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9630559,-81.19554
+FIRE HALL # 06,Fire stations and associated offices and facilities,590 OXFORD ST W,LONDON,N6H 1T9,898.02,Square meters,168,,"90,199.45480",kWh,"20,795.19321",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9834988,-81.2933117666667
+FIRE HALL # 07,Fire stations and associated offices and facilities,1295 WEBSTER ST,LONDON,N5V 3P8,612.62,Square meters,168,,"49,471.89711",kWh,"14,506.78861",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,43.023386,-81.212058
+FIRE HALL # 08,Fire stations and associated offices and facilities,1565 WESTERN RD,LONDON,N6G 1H5,612.62,Square meters,168,,"61,395.17226",kWh,"16,821.94570",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,43.020373,-81.279351
+FIRE HALL # 09,Fire stations and associated offices and facilities,746 WELLINGTON RD,LONDON,N6C 4R2,"1,429.63",Square meters,168,,"126,414.00935",kWh,"23,677.47602",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9480627811452,-81.2276573037506
+FIRE HALL # 10,Fire stations and associated offices and facilities,2125 TRAFALGAR ST,LONDON,N5V 4Z7,842.00,Square meters,168,,"116,282.66449",kWh,"19,094.09296",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9829737,-81.2031709
+FIRE HALL # 11,Fire stations and associated offices and facilities,7109 WESTMINSTER DR,LONDON,N6P 1N4,946.43,Square meters,168,,"88,559.96892",kWh,"21,863.84429",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.8982734,-81.2387878
+FIRE HALL # 12,Fire stations and associated offices and facilities,275 BOLER RD,LONDON,N6K 2J9,"1,114.86",Square meters,168,,"252,900.53758",kWh,"38,165.40841",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9616615030818,-81.333220045932
+FIRE HALL # 12-GREY BOX SEASONAL,Fire stations and associated offices and facilities,275 BOLER RD,LONDON,N6K 2J9,9.29,Square meters,168,,13.38909,kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9616615030818,-81.333220045932
+FIRE HALL # 13,Fire stations and associated offices and facilities,790 FANSHAWE PK RD E,LONDON,N5X 1L5,408.78,Square meters,168,,"35,700.48000",kWh,"4,615.23142",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,43.037236,-81.247369
+FIRE HALL # 14,Fire stations and associated offices and facilities,2225 HYDE PARK RD,LONDON,N6H 5K2,783.10,Square meters,168,,"70,926.92178",kWh,"8,383.72956",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,43.0150149747001,-81.3404012587838
+CARLING ARENA,Indoor ice rinks,675 GROSVENOR ST,LONDON,N5Y 3T5,"4,867.31",Square meters,126,,"1,011,326.29989",kWh,"94,627.21754",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,43.005562,-81.234056
+FARQUHARSON ARENA,Indoor ice rinks,411 TECUMSEH AVE E,LONDON,N6C 1T4,"3,583.64",Square meters,126,,"706,190.08831",kWh,"33,900.72732",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.96961294,-81.241548645
+GLEN CAIRN ARENA & POOL,Indoor ice rinks,370 CHIPPENDALE CRES,LONDON,N5Z 3G2,"2,728.63",Square meters,126,,"469,494.68036",kWh,"41,883.40264",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9633598730562,-81.2112648623454
+KINSMEN ARENA SPLASH PAD,Indoor ice rinks,20 GRANVILLE ST,LONDON,N6H 1J3,"5,251.01",Square meters,126,,"1,039,617.67895",kWh,"124,414.17151",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9875432,-81.2646583
+LAMBETH ARENA,Indoor ice rinks,7112  BEATTIE ST,LONDON,N6P 1A2,"3,578.62",Square meters,126,,"701,222.49537",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9097001068087,-81.3045035745406
+MEDWAY ARENA & SPLASH,Indoor ice rinks,119 SHERWOOD FOREST SQ,LONDON,N6G 2C3,"2,324.68",Square meters,126,,"469,131.92846",kWh,"84,285.58764",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,43.0033943333333,-81.304071
+NICHOLS ARENA,Indoor ice rinks,799 HOMEVIEW RD,LONDON,N6C 5S6,"7,019.92",Square meters,126,,"2,002,974.42490",kWh,"122,920.97686",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9428687,-81.2524955
+OAKRIDGE ARENA-SPL PAD-POOL,Indoor ice rinks,825 VALETTA,LONDON,N6H 2Z2,"2,786.14",Square meters,126,,"392,108.45676",kWh,"51,271.88136",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9753397401807,-81.3055440723341
+SILVERWOOD ARENA,Indoor ice rinks,50 SYCAMORE ST,LONDON,N5Z 1K8,"2,325.61",Square meters,126,,"270,271.90081",kWh,"26,508.85521",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.98324692,-81.20611992
+ARGYLE ARENA,Indoor recreational facilities,1948 WAVELL ST,LONDON,N5V 1P4,"4,576.52",Square meters,126,,"1,080,622.22210",kWh,"108,505.66817",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,43.0002089499258,-81.1685502451732
+STRONACH ARENA & POOL & SPLASH,Indoor recreational facilities,1221 SANDFORD,LONDON,N5V 2J8,"7,125.09",Square meters,126,,"1,659,437.77129",kWh,"133,554.04502",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,43.020539,-81.203634
+CANADA GAMES AQUATIC CTR,Indoor swimming pools,1045 WONDERLAND RD N,LONDON,N6G 2Y9,"4,761.21",Square meters,126,,"2,005,738.44091",kWh,"141,624.34985",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,43.0028073343031,-81.3025458868209
+CARLING HEIGHTS OCC-POOL (Internal meter),Indoor swimming pools,654 ELIZABETH ST,LONDON,N5Y 6L3,"1,086.06",Square meters,126,,"1,014,182.68675",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9987718,-81.233576
+SOUTH LONDON POOL - TVDSB,Indoor swimming pools,565 BRADLEY AVE,LONDON,N63 3Z8,"1,683.07",Square meters,126,,"879,842.57548",kWh,"106,115.68903",Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9341639,-81.2362539
+AJ TYLER - UNIT QUONSE,Other,663 BATHURST ST,LONDON,N5Z 1P8,157.94,Square meters,168,,,,158.21257,Cubic Meter,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9848552,-81.2304173
+AJ TYLER BLDG-GUARD SHED,Other,665 BATHURST ST,LONDON,N5Z 1P8,7.43,Square meters,168,,"7,671.75705",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9833314,-81.2362615
+BASIL GROVER PK,Other,555 WHARNCLIFFE RD S,LONDON,N6J 2A1,93.00,Square meters,168,,"2,013.02484",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9549594,-81.2602432483871
+BYRON CC & POOL,Other,1308 NORMAN AVE,LONDON,N6K 2A3,143.07,Square meters,168,,"18,457.27883",kWh,,,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,,42.9571509,-81.3361288
+CITY WIDE SPORTS PARK,Other,1610 COMMISSIONERS RD E,LONDON,N6M 1E8,470.94,Square meters,168,,"169,303.97287",kWh,,,,,,,,,,,,,,,,,,,,,,,,,42.9631478928486,-81.1694038627425
+COAL TAR,Other,75 HORTON ST,LONDON,N6J 1E8,27.87,Square meters,168,,"28,382.90364",kWh,,,,,,,,,,,,,,,,,,,,,,,,,,
+DEARNESS HOME,Other,710 SOUTHDALE RD E,LONDON,N6E 1R8,"17,342.07",Square meters,168,,"3,764,776.66468",kWh,"645,317.40865",Cubic Meter,,,,,,,,,,,,,,,,,,,,,,,42.9438044,-81.225001
+EAST LIONS PARK-POOL,Other,1731 CHURCHILL AVE,LONDON,N5W 5P4,343.75,Square meters,168,,34.96296,kWh,,,,,,,,,,,,,,,,,,,,,,,,,42.9997093,-81.1765764
+ED BLAKE PK,Other,449 BARKER ST,LONDON,N5Y 5B2,97.09,Square meters,168,,"5,938.07080",kWh,,,,,,,,,,,,,,,,,,,,,,,,,43.0129783,-81.2303172
+FANSHAWE GOLF COURSE-MAIN CLUBHOUSE,Other,2835 SUNNINGDALE RD E,LONDON,N5X 3Y7,"1,053.08",Square meters,168,,"228,179.02968",kWh,,,,,,,,,,,,,,,,,,,,,,,,,,
+FANSHAWE GOLF COURSE-MTCE BLDG,Other,2835 SUNNINGDALE RD E,LONDON,N5X 3Y7,260.13,Square meters,168,,"39,585.41637",kWh,,,,,,,,,,,,,,,,,,,,,,,,,,
+FANSHAWE GOLF COURSE-PARKSIDE NINE,Other,2835 SUNNINGDALE RD E,LONDON,N5X 3Y7,163.51,Square meters,168,,"2,481.95585",kWh,,,,,,,,,,,,,,,,,,,,,,,,,,
+FIDO PARK FIELD HOUSE,Other,733 WINDERMERE RD,LONDON,N5X 3P1,60.11,Square meters,168,,"3,118.56500",kWh,,,,,,,,,,,,,,,,,,,,,,,,,43.023127,-81.2492145
+FORKS OF THE THAMES MUSEUM & SPL P,Other,1 DUNDAS ST,LONDON,N6A 5L7,163.51,Square meters,168,,"52,664.30838",kWh,"3,233.84868",Cubic Meter,,,,,,,,,,,,,,,,,,,,,,,42.982082,-81.2558389
+GIBBONS PARK-POOL-SPLASH PAD,Other,2A GROSVENOR ST,LONDON,N6A 1Y4,348.02,Square meters,168,,"35,940.40875",kWh,"5,515.52143",Cubic Meter,,,,,,,,,,,,,,,,,,,,,,,42.9985193,-81.2596977
+GLANWORTH PARK-FIELD HOUSE,Other,6536 BRADISH RD,LONDON,N6N 1N6,201.14,Square meters,168,,"3,037.15407",kWh,,,,,,,,,,,,,,,,,,,,,,,,,42.8655369,-81.196602004878
+GREENWAY PARK #2,Other,5 GREENSIDE AVE,LONDON,N6J 2X5,93.00,Square meters,168,,61.57903,kWh,,,,,,,,,,,,,,,,,,,,,,,,,,
+HAMLYN PARK-EQUIPMENT BLDG,Other,101 DENNIS AVE,LONDON,N6P 1B5,117.62,Square meters,168,,"1,849.88126",kWh,,,,,,,,,,,,,,,,,,,,,,,,,42.9076268,-81.2898129
+HARRIS PARK,Other,531 RIDOUT ST N,LONDON,N6A 2P9,74.32,Square meters,168,,"24,696.31417",kWh,,,,,,,,,,,,,,,,,,,,,,,,,42.9862969411765,-81.2555986176471
+IVEY PARK-PAVILLION,Other,331 THAMES ST,LONDON,N6A 5N8,125.42,Square meters,168,,"8,074.91121",kWh,,,,,,,,,,,,,,,,,,,,,,,,,42.9789947,-81.2546284
+JESSE DAVIDSON PARK 1-2 SPL PAD,Other,731 VISCOUNT RD,LONDON,N6J 4G9,46.45,Square meters,168,,"3,033.84355",kWh,,,,,,,,,,,,,,,,,,,,,,,,,42.9471919692338,-81.278233156399
+KIWANIS PARK PAVILLION SPL PAD,Other,612 HALE ST,LONDON,N5W 1H4,116.41,Square meters,168,,"4,418.63708",kWh,,,,,,,,,,,,,,,,,,,,,,,,,42.9952117142857,-81.1971415285714
+LABATT PARK-CLUB HOUSE,Other,25 WILSON AVE,LONDON,N6H 1X2,132.39,Square meters,168,,"1,690.69907",kWh,,,,,,,,,,,,,,,,,,,,,,,,,42.9835046466667,-81.2600277133333
+LABATT PARK-ENTRANCE SSTNDS,Other,25 WILSON,LONDON,N6H 1X2,264.78,Square meters,168,,"4,168.97545",kWh,,,,,,,,,,,,,,,,,,,,,,,,,42.9835046466667,-81.2600277133333
+LABATT PARK-SSTND,Other,25 WILSON AVE,LONDON,N6H 1X2,"1,647.77",Square meters,168,,"255,161.81766",kWh,,,,,,,,,,,,,,,,,,,,,,,,,42.9835046466667,-81.2600277133333
+LAMBETH PARK (CAMPBELL ST)-BALL DIAMOND,Other,4200 CAMPBELL,LONDON,N6P 1S7,59.65,Square meters,168,,"5,954.86333",kWh,,,,,,,,,,,,,,,,,,,,,,,,,42.9133161789922,-81.2938043031979
+LANDFILL-W12-A,Other,3502 MANNING DR,LONDON,N6L 1K6,202.81,Square meters,168,,"303,893.69553",kWh,"28,724.60554",Cubic Meter,,,,,,,,,,,,,,,,,,,,,,,42.8783643,-81.1938193
+LITTLE LEAGUE PARK,Other,65 TWEED CRES,LONDON,N5X 1Z5,10.22,Square meters,168,,13.51000,kWh,,,,,,,,,,,,,,,,,,,,,,,,,43.0402672699558,-81.2336894283877
+MCMAHEN PARK,Other,640 ADELAIDE ST N,LONDON,N6B 2G4,106.84,Square meters,168,,"6,045.03177",kWh,,,,,,,,,,,,,,,,,,,,,,,,,42.99612345,-81.2349770333333
+MEREDITH PARK-FIELD HOUSE,Other,450 NELSON AVE,LONDON,N6B 1A8,83.61,Square meters,168,,"2,563.05750",kWh,,,,,,,,,,,,,,,,,,,,,,,,,,
+MURRAY PARK-FIELD HOUSE,Other,75 CLIFTONVALE AVE,LONDON,N6J 1J6,83.61,Square meters,168,,647.96000,kWh,,,,,,,,,,,,,,,,,,,,,,,,,42.9679469684211,-81.2676267631579
+NORTHEAST RECREATION CENTRE-POOL,Other,1050 VICTORIA,LONDON,N5Y 1L2,157.01,Square meters,168,,"32,499.91875",kWh,"6,269.35639",Cubic Meter,,,,,,,,,,,,,,,,,,,,,,,-38.255266,-72.110675
+NORTHRIDGE POOL,Other,15 MCLEAN DR,LONDON,N5X 1Y3,143.07,Square meters,168,,"20,426.73645",kWh,,,,,,,,,,,,,,,,,,,,,,,,,43.037038875,-81.23634425
+OAKRDG PK-FLDHS-WADDING PL,Other,825 VALETTA ST,LONDON,N6H 2Z2,131.93,Square meters,168,,"6,211.90120",kWh,,,,,,,,,,,,,,,,,,,,,,,,,42.9753397401807,-81.3055440723341
+OXFORD ENVIRO DEPOT,Other,1450 OXFORD ST W,LONDON,N6H 1W2,92.91,Square meters,168,,"92,918.52314",kWh,,,,,,,,,,,,,,,,,,,,,,,,,42.9632143,-81.3690278
+OXFORD ST W SALT SHED,Other,1570 OXFORD ST W,LONDON,N6H 1W2,"1,574.37",Square meters,168,,"55,417.21675",kWh,,,,,,,,,,,,,,,,,,,,,,,,,42.971562,-81.3345411
+PLANNING/DEV - RENTAL,Other,520 WELLINGTON ST UN 11 &12,LONDON,N6A 4L9,261.90,Square meters,168,,"38,299.58617",kWh,,,,,,,,,,,,,,,,,,,,,,,,,,
+RIVER RD GOLF COURSE-MAIN CLUBHOUSE,Other,2115 RIVER RD,LONDON,N5W 6C4,418.07,Square meters,168,,"84,667.52402",kWh,"8,657.09093",Cubic Meter,,,,,,,,,,,,,,,,,,,,,,,42.9786131,-81.1335514
+RIVER RD GOLF COURSE-MTCE BLDG,Other,2115 RIVER RD,LONDON,N5W 6C4,222.97,Square meters,168,,"14,884.74366",kWh,,,,,,,,,,,,,,,,,,,,,,,,,42.9786131,-81.1335514
+ROWNTREE PARK SPLASH PAD,Other,750 WHETTER AVE,LONDON,N6C 2C3,83.24,Square meters,168,,"1,269.57787",kWh,,,,,,,,,,,,,,,,,,,,,,,,,42.9659825,-81.2263211
+SE 3,Other,28 CLARKE RD,LONDON,N5W 5W5,91.05,Square meters,168,,"34,139.14032",kWh,,,,,,,,,,,,,,,,,,,,,,,,,43.041672,-81.1945997
+SILVERWOOD BATH HOUSE-SNORKLE,Other,50 SYCAMORE ST,LONDON,N5Z 1K8,345.61,Square meters,168,,"6,925.64790",kWh,,,,,,,,,,,,,,,,,,,,,,,,,42.98324692,-81.20611992
+SOUTHCREST POOL,Other,10 HAZELWOOD AVE,LONDON,N6J 3K1,430.71,Square meters,168,,"67,614.39311",kWh,,,,,,,,,,,,,,,,,,,,,,,,,,
+SOUTHEAST OPT PK-FLD HS-SPL PAD,Other,237 DEVERON CRES,LONDON,N5Z 4J7,105.73,Square meters,168,,"15,267.79191",kWh,,,,,,,,,,,,,,,,,,,,,,,,,42.9551455,-81.1943741
+SOUTHWEST OPT PARK 1-2,Other,682 SOUTHDALE RD W,LONDON,N6K 4W7,161.10,Square meters,168,,"33,771.81924",kWh,,,,,,,,,,,,,,,,,,,,,,,,,42.9372429263158,-81.3073540736842
+SPRINGBANK PARK WASHROOM,Other,1085 COMMISSIONERS RD W,LONDON,N6K 1C5,93.00,Square meters,168,,"38,263.29234",kWh,,,,,,,,,,,,,,,,,,,,,,,,,42.9566914457614,-81.3214651924432
+SPRINGBANK PARK-CONCESSION,Other,1085 COMMISSIONERS RD W,LONDON,N6K 1C5,80.73,Square meters,168,,"10,821.67581",kWh,,,,,,,,,,,,,,,,,,,,,,,,,42.9566914457614,-81.3214651924432
+SPRINGBANK PARK-FLINT SHELTER,Other,1085 COMMISSIONERS RD W,LONDON,N6K 1C6,151.90,Square meters,168,,"7,786.26571",kWh,,,,,,,,,,,,,,,,,,,,,,,,,42.9566914457614,-81.3214651924432
+SPRINGBANK PARK-PUMP HOUSE,Other,1085 COMMISSIONERS RD W,LONDON,N6K 1C6,510.33,Square meters,168,,"86,342.86429",kWh,,,,,,,,,,,,,,,,,,,,,,,,,42.9566914457614,-81.3214651924432
+SPRINGBANK PARK-PUMP HOUSE LIGHTS,Other,1085 COMMISSIONERS RD W,LONDON,N6K 1C7,151.90,Square meters,168,,499.88105,kWh,,,,,,,,,,,,,,,,,,,,,,,,,42.9566914457614,-81.3214651924432
+SPRINGBANK PMP HSE  FCV #8-12,Other,883 SPRINGBANK DR,LONDON,N6K 1A5,298.13,Square meters,168,,"1,543.14000",kWh,,,,,,,,,,,,,,,,,,,,,,,,,42.9558665124122,-81.3131124255495
+ST JULIEN PARK-FIELD HOUSE,Other,15 TOMMY HUNTER WAY,LONDON,N5Z 2T4,51.66,Square meters,168,,"2,638.19362",kWh,,,,,,,,,,,,,,,,,,,,,,,,,42.9774977,-81.1988527
+STONEYBROOK RECREATION,Other,1207 ADELAIDE ST N,LONDON,N5X 1J9,251.96,Square meters,168,,"79,979.13844",kWh,,,,,,,,,,,,,,,,,,,,,,,,,43.0114376,-81.2427961
+STORYBOOK -CONCESSION-PIECES OF 8,Other,1958 STORYBOOK LN,LONDON,N6K 4Y6,97.55,Square meters,168,,"6,685.61240",kWh,,,,,,,,,,,,,,,,,,,,,,,,,42.9575299,-81.3197528
+STORYBOOK PLAYWORLD,Other,1958 STORYBOOK LN,LONDON,N6K 4Y6,"1,328.55",Square meters,168,,"3,010.56000",kWh,,,,,,,,,,,,,,,,,,,,,,,,,42.9575299,-81.3197528
+STRONACH - STADIUM/CONCESSION,Other,1221 SANDFORD ST,LONDON,N5V 2J8,167.23,Square meters,168,,"20,291.97677",kWh,,,,,,,,,,,,,,,,,,,,,,,,,43.020539,-81.203634
+THAMES GC-SNK B 10TH/PARK LT,Other,850 SUNNINGHILL AVE,LONDON,N6H 3L9,88.26,Square meters,168,,"39,855.82204",kWh,,,,,,,,,,,,,,,,,,,,,,,,,,
+THAMES GOLF COURSE-MAIN CLUBHOUSE,Other,850 SUNNINGHILL AVE,LONDON,N6H 3L9,"1,165.96",Square meters,168,,"277,850.25200",kWh,,,,,,,,,,,,,,,,,,,,,,,,,,
+THAMES GOLF COURSE-MTCE BLDG,Other,850 SUNNINGHILL AVE,LONDON,N6H 3L9,390.20,Square meters,168,,"24,314.55164",kWh,,,,,,,,,,,,,,,,,,,,,,,,,,
+THAMES PARK-FIELD HOUSE,Other,15 RIDOUT ST,LONDON,N6A 4H6,105.26,Square meters,168,,"12,586.01840",kWh,,,,,,,,,,,,,,,,,,,,,,,,,,
+THAMES PARK-POOL,Other,15 RIDOUT ST,LONDON,N6A 4H6,489.05,Square meters,168,,"90,500.23000",kWh,"29,183.84200",Cubic Meter,,,,,,,,,,,,,,,,,,,,,,,,
+VAUXHALL PARK-FIELD HOUSE,Other,54 PRICE ST,LONDON,N5Z 2H9,117.62,Square meters,168,,"25,891.76660",kWh,,,,,,,,,,,,,,,,,,,,,,,,,42.9756733084415,-81.2073481708143
+VICTORIA PARK BANDSHELL-ELEC RM,Other,580 CLARENCE ST,LONDON,N6A 3N1,756.71,Square meters,168,,"131,622.32840",kWh,"21,197.07636",Cubic Meter,,,,,,,,,,,,,,,,,,,,,,,42.9887762,-81.2496924
+WESTMINSTER OPT PK POOL,Other,650 OSGOODE DR,LONDON,N6E 2G2,167.51,Square meters,168,,"29,886.83636",kWh,"16,018.73591",Cubic Meter,,,,,,,,,,,,,,,,,,,,,,,42.9422272,-81.2084565
+WOLSELY OPS GARAGE(NG shared T-BLOCK),"Storage facilities where equipment or vehicles are maintained, repaired or stored",654 ELIZABETH ST,LONDON,N5Y 6L3,627.11,Square meters,168,,"1,887.27283",kWh,,,,,,,,,,,,,,,,,,,,,,,,,42.9987718,-81.233576
+WONDERLAND GARDENS,Other,285 WONDERLAND RD S,LONDON,N6K 3T3,551.02,Square meters,168,,"28,786.85474",kWh,,,,,,,,,,,,,,,,,,,,,,,,,42.9665115486114,-81.2938829679256
+ADELAIDE OPS CTRE - 1153,"Storage facilities where equipment or vehicles are maintained, repaired or stored",1153 ADELAIDE ST N,LONDON,N5Y 2N4,"2,386.27",Square meters,168,,"366,997.77704",kWh,"125,989.93334",Cubic Meter,,,,,,,,,,,,,,,,,,,,,,,43.023021,-81.248902
+ADMIN-PCP,"Storage facilities where equipment or vehicles are maintained, repaired or stored",3901 WEST GRAHAM PL,LONDON,N6P 1G4,76.65,Square meters,168,,"57,498.06852",kWh,,,,,,,,,,,,,,,,,,,,,,,,,42.9161701,-81.3205858
+AJ TYLER - MAIN BLDG & (E) WATER/SEWER BLDG,"Storage facilities where equipment or vehicles are maintained, repaired or stored",663 BATHURST ST,LONDON,N5Z 1P8,"2,117.22",Square meters,50,,"1,703,250.88717",kWh,"149,343.19201",Cubic Meter,,,,,,,,,,,,,,,,,,,,,,,42.9848552,-81.2304173
+AJ TYLER BLDG -# 1 WATER STORAGE,"Storage facilities where equipment or vehicles are maintained, repaired or stored",663 BATHURST ST,LONDON,N5Z 1P8,576.01,Square meters,50,,"21,742.31260",kWh,"13,295.57694",Cubic Meter,,,,,,,,,,,,,,,,,,,,,,,42.9848552,-81.2304173
+AJ TYLER BLDG- STORES BLDG,"Storage facilities where equipment or vehicles are maintained, repaired or stored",663 BATHURST ST,LONDON,N5Z 1P8,152.64,Square meters,50,,216.53371,kWh,"117,502.48526",Cubic Meter,,,,,,,,,,,,,,,,,,,,,,,42.9848552,-81.2304173
+AJ TYLER BLDG-# 2 SEWER STORAGE,"Storage facilities where equipment or vehicles are maintained, repaired or stored",663 BATHURST ST,LONDON,N5Z 1P8,576.01,Square meters,50,,"39,422.91223",kWh,"17,983.60295",Cubic Meter,,,,,,,,,,,,,,,,,,,,,,,42.9848552,-81.2304173
+AJ TYLER BLDG-WATER/SEWER BLDG,"Storage facilities where equipment or vehicles are maintained, repaired or stored",663 BATHURST ST,LONDON,N5Z 1P8,557.43,Square meters,50,,,,"7,942.93948",Cubic Meter,,,,,,,,,,,,,,,,,,,,,,,42.9848552,-81.2304173
+CAVENDISH OPS CTRE,"Storage facilities where equipment or vehicles are maintained, repaired or stored",136 CAVENDISH CRES,LONDON,N6H 1A6,78.97,Square meters,168,,"11,044.51217",kWh,"2,257.44265",Cubic Meter,,,,,,,,,,,,,,,,,,,,,,,42.9804297248643,-81.2671149869268
+EXETER RD OC,"Storage facilities where equipment or vehicles are maintained, repaired or stored",707 EXETER RD,LONDON,N6E 1L3,"5,304.89",Square meters,126,,"678,624.32230",kWh,"76,452.64491",Cubic Meter,,,,,,,,,,,,,,,,,,,,,,,42.9253976,-81.2210499
+MCMANUS BOATHOUSE,"Storage facilities where equipment or vehicles are maintained, repaired or stored",199 WONDERLAND RD S,LONDON,N6K 3T3,569.23,Square meters,60,,"25,596.97181",kWh,"8,931.20959",Cubic Meter,,,,,,,,,,,,,,,,,,,,,,,42.9702105,-81.2925583
+OXFORD OPS CTRE,"Storage facilities where equipment or vehicles are maintained, repaired or stored",1570 OXFORD ST W,LONDON,N6H 1W2,628.50,Square meters,80,,"13,396.94000",kWh,"23,134.47452",Cubic Meter,,,,,,,,,,,,,,,,,,,,,,,42.971562,-81.3345411
+ROSE GARDEN - OFFICE/STORAGE,"Storage facilities where equipment or vehicles are maintained, repaired or stored",645 SPRINGBANK DR,LONDON,N6K 4T1,579.73,Square meters,70,,"53,504.70290",kWh,"7,125.82529",Cubic Meter,,,,,,,,,,,,,,,,,,,,,,,42.9619785428571,-81.2967508821429
+STORAGE BUILDING,"Storage facilities where equipment or vehicles are maintained, repaired or stored",1220 ADELAIDE ST N,LONDON,N5Y 2N4,226.69,Square meters,70,,"17,022.30409",kWh,,,,,,,,,,,,,,,,,,,,,,,,,43.0114376,-81.2427961
+WILTON GROVE STORAGE,"Storage facilities where equipment or vehicles are maintained, repaired or stored",1554 WILTON GROVE,LONDON,N6N 1M4,"2,034.63",Square meters,70,,"23,814.73097",kWh,"6,013.92990",Cubic Meter,,,,,,,,,,,,,,,,,,,,,,,42.9344818,-81.2082381
