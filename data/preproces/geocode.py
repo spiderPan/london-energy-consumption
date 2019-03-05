@@ -11,7 +11,7 @@ cached_address_file = 'cached_address'
 
 
 def add_geocode_to_data(file):
-    df = pd.read_csv(file)
+    df = pd.read_csv('./csv/'+file)
 
     if 'lat' not in df.columns or 'lng' not in df.columns:
         df['lat'] = df.apply(lambda x: get_geocode_by_address(
@@ -62,11 +62,11 @@ def create_geojson_feature(x, y, id, properties):
 
 
 def create_geojson_from_csv(file):
-    out_file = os.path.splitext(file)[0]+'.json'
+    out_file = './geojson/' + os.path.splitext(file)[0]+'.json'
     if os.path.isfile(out_file):
         os.remove(out_file)
 
-    df = pd.read_csv(file)
+    df = pd.read_csv('./csv/'+file)
     features = []
 
     for index, row in df.iterrows():
