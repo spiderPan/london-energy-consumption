@@ -10,7 +10,7 @@ import pickle
 cached_address_file = 'cached_address'
 
 
-def add_geocode_to_data(file):
+def pre_process_data(file):
     df = pd.read_csv('./csv/'+file)
 
     if 'lat' not in df.columns or 'lng' not in df.columns:
@@ -19,7 +19,13 @@ def add_geocode_to_data(file):
         df['lng'] = df.apply(lambda x: get_geocode_by_address(
             x['Address'], x['City'], output='lng'), axis=1)
 
-    df.to_csv(file, index=False)
+    to_num_cols = ['Total Floor Area', 'Electricity', 'Natural Gas', 'Fuel Oil 1 & 2',
+                   'Fuel Oil 4 & 6', 'Propane', 'Coal', 'Wood', 'District Heat', 'Renewable1',
+                   'Emission Factor1', 'District Cool', 'Renewable2', 'Emission Factor2', 'GHG Emissions (Kg)', 'Energy Intensity (ekWh/Mega Litres)']
+
+    df[to_num_cols] = df[to_num_cols].apply(
+        pd.to_numeric, errors="coerce", axis=1)
+    df.to_csv('./csv/'+file, index=False)
 
 
 def get_geocode_by_address(address, city, output='json'):
@@ -98,7 +104,7 @@ if __name__ == '__main__':
     data_file = sys.argv[1]
     print("counting...")
     address_dict = load_obj(cached_address_file)
-    add_geocode_to_data(data_file)
+    pre_process_data(data_file)
     create_geojson_from_csv(data_file)
     print("updated file...")
     save_obj(address_dict, cached_address_file)
