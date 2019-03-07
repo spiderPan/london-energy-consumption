@@ -11,18 +11,18 @@ Original data from [City of London Open Data](https://www.london.ca/city-hall/op
 ## Install Requirements
 
 ```
-pip3 install -r requirements.txt
+pip3 install -r preprocess/requirements.txt
 ```
 
 ## Usage
 Calculate Geo and convert csv to GeoJSON
 
 ```
-python3 preproces/geocode.py 2011.csv
+python3 preprocess/geocode.py 2011.csv
 ```
 
 Merge all years into one and convert it to GeoJSON
 
 ```
-python3 preproces/geocode.py merged.csv
+python3 preprocess/geocode.py merged.csv
 ```
