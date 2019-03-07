@@ -12,7 +12,7 @@ cached_address_file = 'cached_address'
 
 
 def pre_process_data(file):
-    df = pd.read_csv('./csv/'+file)
+    df = pd.read_csv('./raw/'+file)
 
     if 'lat' not in df.columns or 'lng' not in df.columns:
         df['lat'] = df.apply(lambda x: get_geocode_by_address(
@@ -25,8 +25,8 @@ def pre_process_data(file):
                    'Emission Factor1', 'District Cool', 'Renewable2', 'Emission Factor2',
                    'GHG Emissions (Kg)', 'Energy Intensity (ekWh/sqft)', 'Energy Intensity (ekWh/Mega Litres)']
 
-    df[to_num_cols] = df[to_num_cols].apply(
-        pd.to_numeric, errors="coerce", axis=1).fillna(0)
+    df[to_num_cols] = df[to_num_cols].apply(lambda x: pd.to_numeric(
+        x.astype(str).str.replace(',', ''), errors="coerce")).fillna(0)
     df.to_csv('./csv/'+file, index=False)
 
 
@@ -122,7 +122,7 @@ if __name__ == '__main__':
     data_file = sys.argv[1]
 
     if data_file.startswith('merged'):
-        merge_csvs_in_folder('./csv')
+        merge_csvs_in_folder('./raw')
 
     print("counting...")
     address_dict = load_obj(cached_address_file)
