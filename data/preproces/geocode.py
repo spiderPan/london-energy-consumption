@@ -19,12 +19,13 @@ def pre_process_data(file):
         df['lng'] = df.apply(lambda x: get_geocode_by_address(
             x['Address'], x['City'], output='lng'), axis=1)
 
-    to_num_cols = ['Total Floor Area', 'Electricity', 'Natural Gas', 'Fuel Oil 1 & 2',
+    to_num_cols = ['Total Floor Area', 'Annual Flow', 'Electricity', 'Natural Gas', 'Fuel Oil 1 & 2',
                    'Fuel Oil 4 & 6', 'Propane', 'Coal', 'Wood', 'District Heat', 'Renewable1',
-                   'Emission Factor1', 'District Cool', 'Renewable2', 'Emission Factor2', 'GHG Emissions (Kg)', 'Energy Intensity (ekWh/Mega Litres)']
+                   'Emission Factor1', 'District Cool', 'Renewable2', 'Emission Factor2',
+                   'GHG Emissions (Kg)', 'Energy Intensity (ekWh/sqft)', 'Energy Intensity (ekWh/Mega Litres)']
 
     df[to_num_cols] = df[to_num_cols].apply(
-        pd.to_numeric, errors="coerce", axis=1)
+        pd.to_numeric, errors="coerce", axis=1).fillna(0)
     df.to_csv('./csv/'+file, index=False)
 
 
