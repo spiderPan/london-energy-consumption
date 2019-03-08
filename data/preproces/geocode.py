@@ -27,7 +27,21 @@ def pre_process_data(file):
 
     df[to_num_cols] = df[to_num_cols].apply(lambda x: pd.to_numeric(
         x.astype(str).str.replace(',', ''), errors="coerce")).fillna(0)
+
+    # Unit Convertion
+    df.loc[df['Unit1'] == 'Square meters', [
+        'Total Floor Area']] = df['Total Floor Area'] * 10.76
+    df.loc[df['Unit1'] == 'Square meters', [
+        'Unit1']] = 'Square feet'
     df.to_csv('./csv/'+file, index=False)
+
+
+def convert_sm_to_sf(value, unit):
+    unit = unit.lower().strip()
+    if unit == 'square meters':
+        return value * 10.76
+    elif unit == 'sqaure feet':
+        return value
 
 
 def get_geocode_by_address(address, city, output='json'):
