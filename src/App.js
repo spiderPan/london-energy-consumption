@@ -5,7 +5,9 @@ import { taskMiddleware } from "react-palm/tasks";
 import { Provider, useDispatch } from "react-redux";
 import KeplerGl from "kepler.gl";
 import { addDataToMap } from "kepler.gl/actions";
+import KeplerGlSchema from 'kepler.gl/schemas';
 import useSwr from "swr";
+import datajson from './keplergl.json';
 
 const reducers = combineReducers({
     keplerGl: keplerGlReducer
@@ -24,16 +26,14 @@ export default function App() {
 function Map() {
     const dispatch = useDispatch();
     const { data } = useSwr("london-energy-consumption", async () => {
-        const response = await fetch(
-            "https://raw.githubusercontent.com/spiderPan/london-energy-consumption/master/data/keplergl.json"
-        );
-        const data = await response.json();
+        const { datasets, config } = datajson;
+        const data = KeplerGlSchema.load(datasets, config);
+
         return data;
     });
 
     React.useEffect(() => {
         if (data) {
-            console.log(data);
             dispatch(
                 addDataToMap(data)
             );
