@@ -8,4 +8,4 @@ services:
     volumes:
       - ./:/app
     ports:
-      - 8300:3000
+      - 3010:80
