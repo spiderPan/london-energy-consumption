@@ -13,15 +13,14 @@
         "react-dom": "^16.13.1",
         "react-palm": "^3.1.2",
         "react-redux": "^7.2.0",
-        "react-scripts": "3.4.1",
+        "react-scripts": "3.4.0",
         "redux": "^4.0.5",
         "styled-components": "^5.0.1",
         "swr": "^0.1.18"
     },
     "scripts": {
-        "prepare": "rm -rf ./src/keplergl.json && cp ./data/keplergl.json ./src/keplergl.json",
-        "start": "yarn prepare && react-scripts start",
-        "build": "yarn prepare && react-scripts build",
+        "start": "react-scripts start",
+        "build": "react-scripts build",
         "test": "react-scripts test",
         "eject": "react-scripts eject"
     },

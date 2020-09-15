@@ -43,8 +43,7 @@ function Map() {
     return (
         <KeplerGl
             id="london-energy-consumption"
-            // mapboxApiAccessToken={process.env.REACT_APP_MAPBOX_API}
-            mapboxApiAccessToken="pk.eyJ1IjoicGFuYmFuZ2xhbmZlbmciLCJhIjoiY2tldzcwZXpwMDQ1bjJ2cGY5MGE4aGh4eiJ9.KxSVCnIYnGanlenavcPJLg"
+            mapboxApiAccessToken={process.env.REACT_APP_MAPBOX_API}
             width={window.innerWidth}
             height={window.innerHeight}
         />

@@ -1,0 +1,11 @@
+version: "3.3"
+services:
+  react:
+    tty: true
+    build:
+      context: ./
+      dockerfile: .docker/react/Dockerfile
+    volumes:
+      - ./:/app
+    ports:
+      - 8300:3000
