@@ -1,4 +1,4 @@
-name: Deploy London Energy Consumption Project
+name: Deploy London Energy Consumption Project Lab
 on:
   push:
     branches:
