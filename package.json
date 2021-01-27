@@ -1,6 +1,7 @@
 {
     "name": "london-energy-consumption",
     "version": "1.0.0",
+    "homepage": "/london-energy-consumption",
     "description": "D3.js Data Visualization for London Energy Consumption",
     "dependencies": {
         "@testing-library/jest-dom": "^4.2.4",
@@ -20,7 +21,7 @@
     },
     "scripts": {
         "start": "react-scripts start",
-        "build": "react-scripts build",
+        "build": "cp ./data/keplergl.json ./src/ && react-scripts build",
         "test": "react-scripts test",
         "eject": "react-scripts eject"
     },
